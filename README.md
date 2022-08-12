@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Paul, a software developer from Germany. 😊
 In my spare time I also enjoy working on frontend projects.
-- 🔭 Currently I'm working on unterVegs - a search platform for vegan products
+- 🔭 Currently I'm working on [unterVegs](www.untervegs.com) - a search platform for vegan products
 - 💻 Technologies I love to work with: Vue, React, Nuxt, SCSS, Typescript
 
 <!--
