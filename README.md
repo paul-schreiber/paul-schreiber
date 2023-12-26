@@ -1,13 +1,11 @@
 ### Hi there 👋
 I'm Paul, a software developer from Germany. 😊
 In my spare time I also enjoy working on frontend projects.
-- 🔭 Currently I'm working on [unterVegs](https://www.untervegs.com) - a search platform for vegan products
+<!-- - 🔭 Currently I'm working on [unterVegs](https://www.untervegs.com) - a search platform for vegan products -->
 
 
 <!--
 **paul-schreiber/paul-schreiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
